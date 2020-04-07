@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 
 @RestController
+@RequestMapping("mc")
 public class StudentServiceController {
 
     private static Map<String, List<Student>> schooDB = new HashMap<String, List<Student>>();

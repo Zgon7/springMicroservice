@@ -1,3 +1,4 @@
+/*
 package com.example.micrservicetest;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,3 +15,4 @@ public class Controller {
         return client.test();
     }
 }
+*/
